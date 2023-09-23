@@ -1,0 +1,14 @@
+{
+  "name": "com.gracegames.core",
+  "displayName": "Grace Game Prototype SDK Package",
+  "version": "1.0.1",
+  "unity": "2021.1",
+  "author": "Grace Games",
+  "description": "Grace Game Prototype SDK for Unity Games",
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GraceGameStudios/com.gracegames.prototype.git"
+  }
+}
